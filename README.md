@@ -1,4 +1,4 @@
 # Mahashayjii
-this is my first repository
+this is my first repository.
 <br>
-Auther - Shubham Patel
+Auther - Shubham
